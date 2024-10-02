@@ -2,7 +2,7 @@
 // import Project2 from "../../assets/project2.webp";
 // import Project3 from "../../assets/project3.webp";
 
-const image = 'https://s3-ap-south-1.amazonaws.com/static.awfis.com/wp-content/uploads/2017/07/07184649/ProjectManagement.jpg'
+
 
 
 export const projectsData = [
