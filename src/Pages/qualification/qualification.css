@@ -71,6 +71,10 @@
 
 .qualification__calendar {
     font-size: var(--small-font-size);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap:5px;
 }
 
 .qualification__rounder {
